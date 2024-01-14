@@ -1,0 +1,57 @@
+body{
+	background-color: rgb(6, 51, 49) 0);
+background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");
+}
+nav{
+	background-color: #00a9e6;
+background-image: url("https://www.transparenttextures.com/patterns/absurdity.png");
+}
+.container{
+	background-color: rgb(232, 232, 232);
+background-image: url("https://www.transparenttextures.com/patterns/absurdity.png");
+margin-top: 3%;
+position: relative;
+}
+.container form{
+position: relative;
+width: 100%;
+
+}
+.container form button{
+	position: absolute;
+	right: 		0px;
+
+}
+.container form button{
+	background-color: transparent;
+	color: red;
+	border: none;
+	font-size: 31px;
+}
+.container form .edit{
+	position: absolute;
+	width: 40px;
+	left: 0;
+}
+
+
+.text{
+	width: 1000px;
+	height: 500px;
+}
+form{
+	text-align: center;
+}
+.heading{
+	width: 60%;
+	margin-bottom: 20px;
+}
+
+.btn-info{
+	margin-top: 20px;
+	margin-bottom: 55px;
+}
+h2{
+	margin-top: 20px;
+	line-height: 150px;
+}
